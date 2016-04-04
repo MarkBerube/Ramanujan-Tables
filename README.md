@@ -1,6 +1,6 @@
 # Ramanujan-Tables
 
-Creates a table of Ramanujan numbers based on input.
+Creates a table of Ramanujan numbers based on input in the C language.
 
 Ramanujan  numbers are the smallest number expressible as the sum of two cubes in two different ways.
 
